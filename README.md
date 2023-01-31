@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GitikaBari
 - 👀 I’m interested in Full stack development 
-- 🌱 I’m currently learning Node Js and React Native
+- 🌱 I’m currently learning Node Js
 - 💞️ I’m looking to collaborate on new technologies and logics
 - 📫 How to reach me https://www.linkedin.com/in/gitika-bari-309030212/
 
